@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/MoviesSearcher/static/css/main.4f5ee5de.chunk.css",
-    "main.js": "/MoviesSearcher/static/js/main.fe0f634e.chunk.js",
-    "main.js.map": "/MoviesSearcher/static/js/main.fe0f634e.chunk.js.map",
-    "runtime-main.js": "/MoviesSearcher/static/js/runtime-main.9ec06905.js",
-    "runtime-main.js.map": "/MoviesSearcher/static/js/runtime-main.9ec06905.js.map",
-    "static/js/2.a9f60bc9.chunk.js": "/MoviesSearcher/static/js/2.a9f60bc9.chunk.js",
-    "static/js/2.a9f60bc9.chunk.js.map": "/MoviesSearcher/static/js/2.a9f60bc9.chunk.js.map",
-    "index.html": "/MoviesSearcher/index.html",
-    "precache-manifest.d4fbb00c409abe37fe47c4cd92c78921.js": "/MoviesSearcher/precache-manifest.d4fbb00c409abe37fe47c4cd92c78921.js",
-    "service-worker.js": "/MoviesSearcher/service-worker.js",
-    "static/css/main.4f5ee5de.chunk.css.map": "/MoviesSearcher/static/css/main.4f5ee5de.chunk.css.map",
-    "static/js/2.a9f60bc9.chunk.js.LICENSE.txt": "/MoviesSearcher/static/js/2.a9f60bc9.chunk.js.LICENSE.txt"
+    "main.css": "/MoviesSearcher.git/static/css/main.4f5ee5de.chunk.css",
+    "main.js": "/MoviesSearcher.git/static/js/main.3869a0e1.chunk.js",
+    "main.js.map": "/MoviesSearcher.git/static/js/main.3869a0e1.chunk.js.map",
+    "runtime-main.js": "/MoviesSearcher.git/static/js/runtime-main.01c1eb33.js",
+    "runtime-main.js.map": "/MoviesSearcher.git/static/js/runtime-main.01c1eb33.js.map",
+    "static/js/2.a9f60bc9.chunk.js": "/MoviesSearcher.git/static/js/2.a9f60bc9.chunk.js",
+    "static/js/2.a9f60bc9.chunk.js.map": "/MoviesSearcher.git/static/js/2.a9f60bc9.chunk.js.map",
+    "index.html": "/MoviesSearcher.git/index.html",
+    "precache-manifest.c7f9a1523bae164a24b05c8376a177bb.js": "/MoviesSearcher.git/precache-manifest.c7f9a1523bae164a24b05c8376a177bb.js",
+    "service-worker.js": "/MoviesSearcher.git/service-worker.js",
+    "static/css/main.4f5ee5de.chunk.css.map": "/MoviesSearcher.git/static/css/main.4f5ee5de.chunk.css.map",
+    "static/js/2.a9f60bc9.chunk.js.LICENSE.txt": "/MoviesSearcher.git/static/js/2.a9f60bc9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9ec06905.js",
+    "static/js/runtime-main.01c1eb33.js",
     "static/js/2.a9f60bc9.chunk.js",
     "static/css/main.4f5ee5de.chunk.css",
-    "static/js/main.fe0f634e.chunk.js"
+    "static/js/main.3869a0e1.chunk.js"
   ]
 }
